@@ -6,7 +6,7 @@ Repositório contendo exercícios, exemplos baseados no livro **Entendendo Algor
 
 > Um guia ilustrado para programadores e outros curiosos.
 
-## ☕︎ Objetico 
+## ☕︎ Objetivo 
 
 Aprender algoritmos de forma visual, leve e prática.
 Ideal para quem está começando ou quer reforçar os conceitos.
